@@ -1,0 +1,11 @@
+d:\Users\zhudo\Desktop\SAMS\SAMS\bin\Debug\SAMS.exe.config
+d:\Users\zhudo\Desktop\SAMS\SAMS\bin\Debug\SAMS.exe
+d:\Users\zhudo\Desktop\SAMS\SAMS\bin\Debug\SAMS.pdb
+d:\Users\zhudo\Desktop\SAMS\SAMS\obj\Debug\SAMS.csproj.AssemblyReference.cache
+d:\Users\zhudo\Desktop\SAMS\SAMS\obj\Debug\SAMS.csproj.SuggestedBindingRedirects.cache
+d:\Users\zhudo\Desktop\SAMS\SAMS\obj\Debug\SAMS.Properties.Resources.resources
+d:\Users\zhudo\Desktop\SAMS\SAMS\obj\Debug\SAMS.csproj.GenerateResource.cache
+d:\Users\zhudo\Desktop\SAMS\SAMS\obj\Debug\SAMS.csproj.CoreCompileInputs.cache
+d:\Users\zhudo\Desktop\SAMS\SAMS\obj\Debug\SAMS.exe
+d:\Users\zhudo\Desktop\SAMS\SAMS\obj\Debug\SAMS.pdb
+d:\Users\zhudo\Desktop\SAMS\SAMS\obj\Debug\SAMS.Sign_in_.resources
