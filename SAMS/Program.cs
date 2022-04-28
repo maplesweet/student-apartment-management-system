@@ -16,7 +16,7 @@ namespace SAMS
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Sign_in_());
+            Application.Run(new Log_in_());
         }
     }
 }
